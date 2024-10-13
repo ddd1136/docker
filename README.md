@@ -12,3 +12,6 @@
 
 ## Отчет
 [Ссылка на отчет по лабораторной работе №1](https://docs.google.com/document/d/1WyIZGTTWPhHf4SDECyBd6Dw42vT4yS-c/edit#heading=h.gjdgxs)
+
+## Airflow
+![Airflow](/image.png)
