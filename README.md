@@ -16,8 +16,10 @@
 ## Отчет
 [Ссылка на отчет по лабораторной работе №1](https://docs.google.com/document/d/1WyIZGTTWPhHf4SDECyBd6Dw42vT4yS-c/edit#heading=h.gjdgxs)
 
-## Ссылки на gitLab/gitHub
+## Ссылки по лабораторным на gitLab/gitHub
 [Ссылка на лабораторную №2](https://gitlab.com/pdfmarkov/devopslab)
+
+
 [Ссылка на лабораторную №3](https://github.com/pdfmarkov/devops?tab=readme-ov-file#%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4)
 
 
